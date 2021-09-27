@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sudarshan/dotnet-micro/backend/backend.csproj",
+      "projectUniqueName": "/home/sudarshan/microservices/backend/backend.csproj",
       "projectName": "backend",
-      "projectPath": "/home/sudarshan/dotnet-micro/backend/backend.csproj",
+      "projectPath": "/home/sudarshan/microservices/backend/backend.csproj",
       "packagesPath": "/home/sudarshan/.nuget/packages/",
-      "outputPath": "/home/sudarshan/dotnet-micro/backend/obj/",
+      "outputPath": "/home/sudarshan/microservices/backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sudarshan/.nuget/NuGet/NuGet.Config"
