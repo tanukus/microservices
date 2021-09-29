@@ -1,5 +1,4 @@
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
-#RUN dotnet dev-certs https --clean --import ${HOME}/certs/aspnetcore.pfx -p Password123
 WORKDIR /src
 COPY backend.csproj .
 RUN dotnet restore
